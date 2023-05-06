@@ -324,7 +324,7 @@ export const ChatInput = ({
                   ? 'auto'
                   : 'hidden'
               }`,
-              minHeight: '200px'
+              minHeight: '100px'
             }}
             placeholder={
               t('Type a message or type "/" to select a prompt...') || ''
