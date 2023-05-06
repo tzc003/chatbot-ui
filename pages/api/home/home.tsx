@@ -370,7 +370,8 @@ const Home = ({
       </Head>
       {selectedConversation && (
         <main
-          className={`flex h-screen w-screen flex-col text-sm text-white dark:text-white ${lightMode}`}
+          // className={`flex h-screen w-screen flex-col text-sm text-white dark:text-white ${lightMode}`}
+          className={`flex h-screen w-screen flex-col text-sm text-white dark:text-white `}
         >
           <div className="fixed top-0 w-full sm:hidden">
             <Navbar
