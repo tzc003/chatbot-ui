@@ -27,7 +27,7 @@ export const ModelSelect = () => {
   };
 
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col" style={{display: 'none'}}>
       <label className="mb-2 text-left text-neutral-700 dark:text-neutral-400">
         {t('Model')}
       </label>
