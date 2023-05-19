@@ -405,7 +405,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                         <Spinner size="16px" className="mx-auto" />
                       </div>
                     ) : (
-                      'ChatGPT'
+                      '航空运输规划人工智能科研平台'
                     )}
                   </div>
 

@@ -13,7 +13,7 @@ export default function Document(props: Props) {
     <Html lang={currentLocale}>
       <Head>
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-title" content="ChatGPT"></meta>
+        <meta name="apple-mobile-web-app-title" content="航空运输规划人工智能科研平台"></meta>
       </Head>
       <body>
         <Main />

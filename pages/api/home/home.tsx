@@ -360,8 +360,8 @@ const Home = ({
       }}
     >
       <Head>
-        <title>ChatGPT</title>
-        <meta name="description" content="ChatGPT but better." />
+        <title>航空运输规划人工智能科研平台</title>
+        <meta name="description" content="航空运输规划人工智能科研平台" />
         <meta
           name="viewport"
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
